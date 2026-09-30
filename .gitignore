@@ -1,0 +1,9 @@
+# Azurite local emulator runtime files
+__azurite_db_*__.json
+__blobstorage__/
+__queuestorage__/
+AzuriteConfig
+
+# OS files
+.DS_Store
+Thumbs.db
